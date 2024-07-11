@@ -8,7 +8,7 @@
 
 🎨 **CSS:** Detail your CSS implementation for styling.
 
-💻 **JavaScript:** Explain how JavaScript is used in your project.
+💻 **JavaScript:** function
 
 ## Features
 
